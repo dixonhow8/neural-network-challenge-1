@@ -8,7 +8,7 @@ This project focuses on predicting the likelihood that a borrower will repay the
 ## Files
 - [Student Loans with Deep Learning Notebook](student_loans_with_deep_learning.ipynb)
 
-## Before You Begin
+## Beginning Steps
 To get started with this challenge, follow these steps:
 
 1. **Create a New Repository**: Name it `neural-network-challenge-1`. Do not add this challenge assignment to an existing repository.
@@ -28,7 +28,7 @@ The notebook is divided into four parts:
 - Split the datasets into training and testing sets.
 - Scale the features using `StandardScaler()` from scikit-learn.
 
-### Part 2: Compile and Evaluate a Model
+### Part 2: Compile and Evaluate the Model
 - Use TensorFlow to design a deep neural network model:
   - Determine the number of input features, layers, and neurons.
   - Start with a two-layer model using the ReLU activation function.
@@ -46,10 +46,10 @@ The notebook is divided into four parts:
 - Generate a classification report based on the predictions and test data.
 
 ### Part 4: Recommendation System Discussion
-Provide brief answers to the following questions:
+Provided answers to the following questions:
 1. **Data Collection**: Describe the necessary data to build a recommendation system for student loan options and its relevance.
 2. **Filtering Method**: Explain whether your model would use collaborative, content-based, or context-based filtering, and justify your choice.
 3. **Challenges**: Identify two real-world challenges in building a student loan recommendation system and explain their significance.
 
 ## Conclusion
-This project aims to leverage machine learning techniques to improve student loan refinancing processes. By accurately predicting loan repayment, our company can better serve borrowers with tailored interest rates. The insights gained from the model and subsequent discussions about a recommendation system will contribute to more effective loan management strategies.
+This project aims to leverage machine learning techniques to improve student loan refinancing processes. By accurately predicting loan repayment, the company can better serve borrowers with tailored interest rates. The insights gained from the model and subsequent discussions about a recommendation system will contribute to more effective loan management strategies.
