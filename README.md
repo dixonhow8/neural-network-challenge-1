@@ -3,10 +3,10 @@ This is the repository for the Module 18 challenge involving Neural networks.
 # Student Loan Repayment Prediction
 
 ## Background
-This project focuses on predicting the likelihood that a borrower will repay their student loans. By analyzing historical data, we aim to create a machine learning model that will allow our company to provide more accurate interest rates for prospective borrowers. The dataset contains information about previous student loan recipients, including their credit rankings.
+This project focuses on predicting the likelihood that a borrower will repay their student loans. By analyzing historical data, the goal was to create a machine learning model that will allow our company to provide more accurate interest rates for prospective borrowers. The dataset contains information about previous student loan recipients, including their credit rankings.
 
 ## Files
-- [Student Loans with Deep Learning Notebook](student_loans_with_deep_learning.ipynb)
+- student_loans_with_deep_learning.ipynb
 
 ## Beginning Steps
 To get started with this challenge, follow these steps:
@@ -53,3 +53,6 @@ Provided answers to the following questions:
 
 ## Conclusion
 This project aims to leverage machine learning techniques to improve student loan refinancing processes. By accurately predicting loan repayment, the company can better serve borrowers with tailored interest rates. The insights gained from the model and subsequent discussions about a recommendation system will contribute to more effective loan management strategies.
+
+## Author
+Howard P. Dixon
